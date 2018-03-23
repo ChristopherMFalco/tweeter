@@ -1,1 +1,1 @@
-worker: python ChatterBot.py
+tweepy==3.5.0
